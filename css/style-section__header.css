@@ -44,7 +44,7 @@
 
 .navigation__navigationSite {
    display: flex;
-   justify-content: space-between;
+   justify-content: space-evenly;
    position: relative;
    padding: 0 2%;
    flex-direction: row;
