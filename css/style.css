@@ -19,6 +19,7 @@ html {
 }
 
 .footer {
+   display: flex;
     background-color: #272727;
 }
 
