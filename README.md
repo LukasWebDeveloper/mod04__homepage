@@ -1,7 +1,7 @@
 # MOD_05 homework
 
 ## Demo
-https://lukaswebdeveloper.github.io/mod04__homepage_BEM/
+https://lukaswebdeveloper.github.io/mod05__homepage/
 
 ## Screenshot site
 
